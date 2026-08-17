@@ -28,8 +28,7 @@ an interactive Streamlit web application.
 
 ## c. GitHub Repository Link
 
-> **[REPLACE WITH YOUR GITHUB REPO URL]**
-> Example: `https://github.com/<your-username>/ml-assignment-2`
+> **[https://github.com/Ram1103/ml-assignment-2]**
 
 ## d. Models Used
 
@@ -103,4 +102,4 @@ report.
 
 ## Live App Link
 
-> **[REPLACE WITH YOUR STREAMLIT COMMUNITY CLOUD APP URL]**
+> **[https://ml-assignment-2-c8m6tjuwgscn2xehwvxbks.streamlit.app]**
