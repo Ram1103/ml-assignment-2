@@ -28,7 +28,7 @@ an interactive Streamlit web application.
 
 ## c. GitHub Repository Link
 
-> **[https://github.com/Ram1103/ml-assignment-2]**
+**https://github.com/Ram1103/ml-assignment-2**
 
 ## d. Models Used
 
@@ -63,20 +63,20 @@ above, and evaluated on the held-out 114-row test set.
 
 ```
 project-folder/
-│-- app.py                 # Streamlit application
-│-- requirements.txt       # Python dependencies
-│-- README.md              # This file
-│-- test_data.csv          # Held-out test data (114 rows, 30 features + target)
-│-- metrics_summary.csv    # Generated comparison table (raw)
-│-- model/
-│   │-- train_models.py            # Training script (trains all 5 models)
-│   │-- logistic_regression.joblib
-│   │-- decision_tree.joblib
-│   │-- knn.joblib
-│   │-- naive_bayes.joblib
-│   │-- random_forest_ensemble.joblib
-│   │-- scaler.joblib               # Fitted StandardScaler
-│   │-- meta.json                   # Feature names / target label mapping
+|-- app.py                 # Streamlit application
+|-- requirements.txt       # Python dependencies
+|-- README.md              # This file
+|-- test_data.csv          # Held-out test data (114 rows, 30 features + target)
+|-- metrics_summary.csv    # Generated comparison table (raw)
+|-- model/
+|   |-- train_models.py            # Training script (trains all 5 models)
+|   |-- logistic_regression.joblib
+|   |-- decision_tree.joblib
+|   |-- knn.joblib
+|   |-- naive_bayes.joblib
+|   |-- random_forest_ensemble.joblib
+|   |-- scaler.joblib               # Fitted StandardScaler
+|   |-- meta.json                   # Feature names / target label mapping
 ```
 
 ## How to Run Locally
@@ -102,4 +102,4 @@ report.
 
 ## Live App Link
 
-> **[https://ml-assignment-2-c8m6tjuwgscn2xehwvxbks.streamlit.app]**
+**https://ml-assignment-2-c8m6tjuwgscn2xehwvxbks.streamlit.app**
